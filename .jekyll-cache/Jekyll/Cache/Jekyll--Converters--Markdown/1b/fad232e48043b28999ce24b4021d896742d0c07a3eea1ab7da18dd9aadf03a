@@ -1,0 +1,9 @@
+I"¦<hr />
+
+<p>By default Odin uses two Google Fonts, Muli and Poppins. To change these font choices, first navigate to <code class="highlighter-rouge">_scss/_variables</code> and find the Google Font import on line 1.</p>
+
+<p>Replace this import with the Google Font(s) of your choice and then find the Fonts section of the variable file (starts on line 50). Make sure to update these to use your chosen fonts, primarily <strong>$base-font-family</strong> and <strong>$header-font-family</strong>.</p>
+
+<p>After editing your fonts, run jekyll serve to see the changes locally. If youâ€™re satisfied with your changes, run jekyll build and then push your changes to your repo.</p>
+
+:ET

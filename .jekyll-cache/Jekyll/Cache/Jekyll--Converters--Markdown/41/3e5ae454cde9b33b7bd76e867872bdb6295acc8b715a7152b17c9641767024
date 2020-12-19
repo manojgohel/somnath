@@ -1,0 +1,7 @@
+I"”<hr />
+
+<p>The easiest way to change the logo used by Odin is to replace the <code class="highlighter-rouge">logo.png</code> file in the <code class="highlighter-rouge">assets</code> folder with your logo. If you change the filename of your logo file, then make sure to update the <code class="highlighter-rouge">brand_logo</code> variable in <code class="highlighter-rouge">_config.yml</code>.</p>
+
+<p>After editing your logo file, run <code class="highlighter-rouge">jekyll serve</code> to see the changes locally. If youâ€™re satisfied with your changes, run <code class="highlighter-rouge">jekyll build</code> and then push your changes to your repo.</p>
+
+:ET

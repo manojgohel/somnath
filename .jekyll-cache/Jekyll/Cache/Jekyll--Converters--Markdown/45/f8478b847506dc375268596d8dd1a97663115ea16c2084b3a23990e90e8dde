@@ -1,0 +1,14 @@
+I"m<hr />
+
+<p><em>This article is a stub, more info coming soon. Colors in Odin are currently a bit messy and need to be cleaned up</em></p>
+
+<p>To change the colors used in Odin, first navigate to <code class="highlighter-rouge">_scss/_variables.scss</code>.</p>
+
+<p>This file contains all of the colors used in Odin. The primary colors you should be concerned about changing are listed below.</p>
+
+<p><strong>$primary-color</strong> - the main brand color used in Odin. This is used in places such as header background and link colors.</p>
+
+<p><strong>$highlight-color</strong> - primarily used for link hover states.</p>
+
+<p>After editing any colors, run <code class="highlighter-rouge">jekyll serve</code> to see the changes locally. If you’re satisfied with your changes, run <code class="highlighter-rouge">jekyll build</code> and then push your changes to your repo.</p>
+:ET

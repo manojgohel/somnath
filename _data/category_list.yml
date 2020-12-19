@@ -1,15 +1,15 @@
 #This file defines all the categories you are using
 
-
+hospitals:
+  name: Hospitals
+  description: Gir Somnath District Hospitals Details.
+school:
+  name: School
+  description: Gir Somnath District Schools Details.
 using-subcategories:
   name: Using Subcategories
   description: Learn to use subcategories!
-using-odin:
-  name: Using Odin
-  description: Welcome to Odin, time to get started
 customizing-odin:
   name: Customizing Odin
   description: Welcome to Odin, time to get started
-school:
-  name: School
-  description: Gir Somnath District Schools
+
