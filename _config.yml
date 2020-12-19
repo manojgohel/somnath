@@ -21,7 +21,7 @@
 title: Somnath - A District of Gujarat.
 description: Somnath is a website portal to list of all shop, bank, ngo and much more detail on one click!
 baseurl: / # the subpath of your site, e.g. /support
-url: http://localhost:4000 # the base hostname AND PROTOCOL for your site, e.g. http://example.com
+url: https://somnath.xyz # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 permalink: /:categories/:title
 
 content_type: A District of Gujarat. #Define whether this is a knowledge base, help center, or something else
