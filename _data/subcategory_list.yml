@@ -2,17 +2,17 @@
 
 
 subcategory-one:
-  name: Subcategory One
-  parent-category: using-subcategories
-  parent-category-name: Using Subcategories
-  description: This is your first subcategory!
+  name: Medical Shop
+  parent-category: shop
+  parent-category-name: Shop
+  description: Gir Somnath District Medicals Shop Detail.
 subcategory-two:
-  name: Subcategory Two
-  parent-category: using-subcategories
-  parent-category-name: Using Subcategories
-  description: This is your second subcategory!
+  name: Provision Store
+  parent-category: shop
+  parent-category-name: Shop
+  description: Gir Somnath District Provision Store Detail.
 subcategory-three:
-  name: Subcategory Three
-  parent-category: using-subcategories
-  parent-category-name: Using Subcategories
-  description: This is your third subcategory!
+  name: Other Shop
+  parent-category: shop
+  parent-category-name: Shop
+  description: Gir Somnath District Other Shop Detail.

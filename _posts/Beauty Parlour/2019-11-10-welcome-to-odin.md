@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Subcategory Post"
+title: "Honest Beauty Parlour"
 date: 2019-11-05 08:44:38 -0400
-category: subcategory-one
-subcategory: 
+category: beauty-parlour
 author: mac
 short-description: A quick overview of Odin to get you started
 ---

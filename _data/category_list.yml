@@ -1,15 +1,49 @@
 #This file defines all the categories you are using
 
 hospitals:
-  name: Hospitals
+  name: Hospitals - હોસ્પિટલ
   description: Gir Somnath District Hospitals Details.
 school:
-  name: School
+  name: School - શાળાઓ
   description: Gir Somnath District Schools Details.
-using-subcategories:
-  name: Using Subcategories
-  description: Learn to use subcategories!
-customizing-odin:
-  name: Customizing Odin
-  description: Welcome to Odin, time to get started
+bank:
+  name: Bank - બેન્ક
+  description: Gir Somnath District Bank Details.
+shop:
+  name: Stores - સ્ટોર્સ
+  description: Gir Somnath District Shops, Provision Store, Medical Store and Other Shops Detail.
+cinema:
+  name: Cinema - સિનેમા
+  description: Gir Somnath District Cinema Details.
+hotel:
+  name: Hotel - હોટેલ
+  description: Gir Somnath District Hotel Details.
+market:
+  name: Market - બજાર
+  description: Gir Somnath District Markets Details.
+ngo:
+  name: NGO / Foundation / Trust - એનજીઓ / ફાઉન્ડેશન / ટ્રસ્ટ
+  description: Gir Somnath District NGO / Foundation / Trust Details.
+university:
+  name: University - વિશ્વવિદ્યાલય
+  description: Gir Somnath District University Details.
+library:
+  name: Library - પુસ્તકાલય
+  description: Gir Somnath District Library Details.
+park:
+  name: Park / Garden - ઉદ્યાન / બગીચો
+  description: Gir Somnath District Park / Garden Details.
+beauty-parlour:
+  name: Beauty Parlour - બ્યુટી પાર્લર
+  description: Gir Somnath District Beauty Parlours and Beatiq Details.
+collage-iti:
+  name: College / ITI - કૉલેજ / આઈ.ટી.આઈ.
+  description: Gir Somnath District Collage / ITI Details.
+religious:
+  name: Temples / Masjid / Churches / Gurdwara - મંદિરો / મસ્જિદ / ચર્ચો / ગુરુદ્વારા
+  description: Gir Somnath District Temples / Masjid / Churches / Gurdwara Details.
+gym:
+  name: Gym / Fitness - જિમ / ફિટનેસ
+  description: Gir Somnath District Gym / Fitness Point Details.
+
 

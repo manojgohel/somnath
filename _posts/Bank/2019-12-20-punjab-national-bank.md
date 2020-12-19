@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Adding Your Logo"
+title: "Punjab National Bank Veraval"
 date: 2019-11-05 08:44:38 -0400
-category: customizing-odin
+category: bank
 author: mac
 short-description: Replacing the Odin logo with your own
 ---
