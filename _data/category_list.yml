@@ -10,3 +10,6 @@ using-odin:
 customizing-odin:
   name: Customizing Odin
   description: Welcome to Odin, time to get started
+school:
+  name: School
+  description: Gir Somnath District Schools
